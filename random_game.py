@@ -19,7 +19,7 @@ while True:
                 print('Congrats you won!!')
                 break
         else: 
-            print('hey, 1-10 dude!')
+            print('Hey! I said 1 through 10 ya dingus!')
     except ValueError:
         print('please enter a number')
         break
