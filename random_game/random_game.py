@@ -21,5 +21,5 @@ while True:
         else: 
             print('Hey! I said 1 through 10 ya dingus!')
     except ValueError:
-        print('please enter a number')
+        print('Please enter a real number')
         break
